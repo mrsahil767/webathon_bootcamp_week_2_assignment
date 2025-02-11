@@ -1,0 +1,21 @@
+8. How many loops in JavaScript, and how do they work?
+
+
+
+In JavaScript, there are seven types of loops that allow you to execute a block of code repeatedly based on specific conditions or to iterate over objects and iterable collections.
+
+For Loop: This loop repeats a block of code a specific number of times. It contains initialization, condition, and increment/decrement in one line.
+While Loop: Executes a block of code as long as a specified condition is true. It can be thought of as a repeating if statement.
+Do-While Loop: Similar to a while loop, but the code block is executed at least once before checking the condition.
+For-In Loop: Used to loop through the properties of an object.
+For-Of Loop: Used to loop through the values of an iterable object, such as an array.
+forEach Loop: A method on arrays that executes a function for each element in the array.
+Map Loop: A method on arrays that creates a new array by executing a function on each element in the array.
+Each loop type is suited for different scenarios, allowing for efficient and concise code when dealing with repetitive tasks or iterating over collections.
+
+but we mostly use only 3 
+for loop 
+while loop
+do while loop 
+ other are not in use as much as these are 
+ 

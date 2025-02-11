@@ -1,0 +1,15 @@
+
+14.	What are functions in JavaScript, and how do you declare them?
+
+In JavaScript, functions are reusable blocks of code designed to perform specific tasks. They can take inputs, perform actions, and return outputs, allowing for organized and modular programming.
+
+varoius ways to declare th functions
+1. function declaration:
+        This is the traditional way to define a function. It starts with the function keyword, followed by the function name and any parameters the function needs.
+
+2. function expression :
+        Function expressions are convenient when passing a function as an argument to another function.
+
+3. arrow function :
+        Arrow functions are always anonymous and can be used to make the syntax more concise.
+        Defining a function does not execute it. It names the function and specifies what to do when the function is called

@@ -1,0 +1,23 @@
+
+5.	Explain the difference between null and undefined in JavaScript.
+
+
+In JavaScript, null and undefined are both used to represent the absence of a value, but they serve different purposes and have distinct characteristics.
+
+but here is the major diffrences in 5 point to understand in a better way 
+
+NULL 
+1. It is assigned intentionally by a developer. 
+2. 	Often used to represent the intentional absence of an object or value.
+3. When null is converted to a number, it becomes 0. 
+4. null is an object type, whereas undefined is a primitive type. 
+5. null == undefined returns true, but null === undefined returns false
+
+
+UNDEFINED :
+
+1.Occurs when a variable is declared but no value is assigned to it. 
+2. Typically the initial value of variables is declared but not yet assigned
+3. When an undefined variable is converted to a number, it becomes NaN
+4. undefined is a primitive type, while null is an object type.
+5. undefined == null returns true, but undefined === null returns false. 
